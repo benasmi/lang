@@ -1,0 +1,12 @@
+C:\Users\benas\Desktop\lang\Xlang\bin\Debug\netcoreapp2.1\Xlang.deps.json
+C:\Users\benas\Desktop\lang\Xlang\bin\Debug\netcoreapp2.1\Xlang.runtimeconfig.json
+C:\Users\benas\Desktop\lang\Xlang\bin\Debug\netcoreapp2.1\Xlang.runtimeconfig.dev.json
+C:\Users\benas\Desktop\lang\Xlang\bin\Debug\netcoreapp2.1\Xlang.dll
+C:\Users\benas\Desktop\lang\Xlang\bin\Debug\netcoreapp2.1\Xlang.pdb
+C:\Users\benas\Desktop\lang\Xlang\obj\Debug\netcoreapp2.1\Xlang.csproj.CoreCompileInputs.cache
+C:\Users\benas\Desktop\lang\Xlang\obj\Debug\netcoreapp2.1\Xlang.AssemblyInfoInputs.cache
+C:\Users\benas\Desktop\lang\Xlang\obj\Debug\netcoreapp2.1\Xlang.AssemblyInfo.cs
+C:\Users\benas\Desktop\lang\Xlang\obj\Debug\netcoreapp2.1\Xlang.dll
+C:\Users\benas\Desktop\lang\Xlang\obj\Debug\netcoreapp2.1\Xlang.pdb
+C:\Users\benas\Desktop\lang\Xlang\obj\Debug\netcoreapp2.1\Xlang.genruntimeconfig.cache
+C:\Users\benas\Desktop\lang\Xlang\obj\Debug\netcoreapp2.1\Xlang.csprojAssemblyReference.cache

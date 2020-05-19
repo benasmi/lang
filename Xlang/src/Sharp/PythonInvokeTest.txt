@@ -1,0 +1,16 @@
+﻿%python_file%
+
+using System;
+
+
+namespace Project
+{
+	class PythonInvokeTest
+	{
+	    static void Main(string[] Args)
+	    {
+	        string tekstas = python_file.get_output_text("Skaicius", 50);
+	        python_file.print_custom_text(tekstas);
+	    }
+	}
+}
